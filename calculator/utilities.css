@@ -1,0 +1,17 @@
+.text-center{
+    text-align: center;
+    color:bisque;
+    font-size:larger;
+}
+.container{
+align-items: center;
+}
+.mx-auto{
+    margin:auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}

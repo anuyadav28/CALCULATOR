@@ -1,0 +1,37 @@
+body {
+    background-color:#F7A173 ;
+}
+
+button {
+    padding: 30px;
+    border-radius: 12px;
+    margin: 3px, 8px;
+    border: 5px, rgb(223, 250, 114);
+    cursor: pointer;
+    margin-bottom: 12px;
+    height: auto;
+    width: 12px;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 50%;
+background-color: brown;
+    color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.row {
+    margin-top: 12px, 0;
+    margin-bottom: 15px;
+}
+
+.row input {
+    margin: 0;
+    padding: 10px;
+    border: 2px solid blanchedalmond;
+    border-radius: 5px;
+    font-size:15px;
+    background-color: burlywood;
+}
